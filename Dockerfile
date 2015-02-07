@@ -1,4 +1,4 @@
-FROM chnoumis/hawtio
+FROM chnoumis/hawtio 
 
 RUN apt-get update && apt-get install -y ruby
 
