@@ -1,4 +1,4 @@
-FROM fabric8/hawtio
+FROM chnoumis/hawtio
 
 RUN apt-get update && apt-get install -y ruby
 
